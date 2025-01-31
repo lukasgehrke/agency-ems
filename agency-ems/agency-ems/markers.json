@@ -1,0 +1,13 @@
+{
+    "create": "marker stream created",
+    "reach end": "class:reach_end",
+    "start": "block:start",
+    "end": "block:end",
+    "idle": "class:idle_start",
+    "isi": "isi:start",
+    "ems on": "ems:on",
+    "ems off": "ems:off",
+    "ems reset": "ems:reset",
+    "instruction off": "instruction:off",
+    "ib_task": "ib_task:"
+}
